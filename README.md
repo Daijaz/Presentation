@@ -1,6 +1,6 @@
 - 💞️ ABOUT ME
    • My name is Miguel Osorio, I'm from colombia, 24 years old. I’m a responsible and disciplined person, I’ve excellent interpersonal abilities. 
-   I’m cursing 8 semesters in system engineering, I’m good in fields like programming, maths, and analysis of software.
+   I’m good in fields like programming, maths, and analysis of software.
 - 👋 FORMATION
    •	System engineer  at Universidad Libre in Colombia.
 - 👀 EXPERIENCE
